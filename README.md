@@ -1,4 +1,4 @@
-# 🧮 Scientific Calculator (Tkinter GUI)
+# 🧮 Scientific Calculator Python
 
 A fully functional, theme-switchable **Scientific Calculator** built using **Python's Tkinter** library.
 
